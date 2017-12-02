@@ -3,6 +3,7 @@
  */
 public class test1 {
     public static void main(String args[]){
-        System.out.println("老毛吃屁");
+        System.out.println("Ewang吃屁");
+        System.out.print("Hello World!");
     }
 }
